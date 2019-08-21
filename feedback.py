@@ -1,15 +1,8 @@
 import telebot
 from telebot import types
-global data1
-global roomnumber1
-global data
-global roomnumber
-global username
-global c
-global c1
+from config import token
 c = 0
 c1 = 1
-token = ''
 telebot.apihelper.proxy = {'https': 'socks5h://geek:socks@t.geekclass.ru:7777'}
 bot = telebot.TeleBot(token=token)
 data1 = {}
