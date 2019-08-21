@@ -1,2 +1,2 @@
-# FeedForRost
-Ну вы поняли
+# FeedBackBot
+Чтобы не побрили
